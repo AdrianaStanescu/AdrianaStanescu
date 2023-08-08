@@ -102,7 +102,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### 2.7 Test monitoring and control
 Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
 
-
 #### 3. Test deliverables
 
 #### 3.1. Test plan
