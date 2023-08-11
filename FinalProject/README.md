@@ -6,7 +6,6 @@ Application under test: https://demoblaze.com/
 
 The final project will be split into 2 sections: Testing section and SQL section.
 
-Tools used:
 
 # Project Requirements
 
@@ -14,19 +13,12 @@ The user should be able to register
 
 The user should be able to login using a registered account
 
-The user should be able to browse the store
-
-The user should be able to add a product to the cart
-
-The user should be able to customise the cart (add, update, delete)
-
 The user should be able to search
 
 The user should be able to reset their password via email
 
 The user should be able to change password or email
 
-The user should be able to user the application on mobile also (mobile friendly)
 
 # 1 Testing section
 
@@ -47,7 +39,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 |Manuela Tester| 1|
 
 
-
 #### 1.2.Functionalities and tests out of scope
 - Non-functional testing like stress, performance is beyond scope of this project 
 - No QA support for mobile application developed. Only web application will be tested. 
@@ -56,8 +47,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 
     ### 2. Test process
 #### 2.1. Test planning
-
-The Test Plan is designed to describe all details of testing for the PIM module from the OrangeHRM application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
@@ -107,11 +96,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 - The traceability matrix was generated to demonstrate the business requirements coverage
 - Test execution chart was generated, the final report shows a number of 3 failed test cases of a total 30
 - There are still 3 opened defects but they have low priority
+- 
 #### 2.7 Test monitoring and control
 Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
 
 #### 3. Test deliverables
-
 #### 3.1. Test plan
 The plan identifies the items to be tested, the features to be tested, the type of testing to be performed, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan. 
 
@@ -149,7 +138,6 @@ _*The following test conditions were created:
 *The test completion report generated from Jira:
 
 -screenshot with test completion report
-
 
 #### 3.9. Schedule
 A test schedule includes the testing steps or tasks, the target start and end date and responsibilities. 
