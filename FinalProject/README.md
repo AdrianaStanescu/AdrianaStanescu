@@ -15,6 +15,8 @@ The user should be able to login using a registered account
 
 The user should be able to search
 
+The user should be able to add a product to the cart
+
 The user should be able to reset their password via email
 
 The user should be able to change password or email
